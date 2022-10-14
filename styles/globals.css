@@ -1,3 +1,4 @@
+@import "~@rhythm-ui/react/lib/style.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -595,10 +595,10 @@
   "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.6.tgz"
   "version" "2.11.6"
 
-"@rhythm-ui/react@^0.1.107":
-  "integrity" "sha1-oYPfcEGA+aJXSujkPc0ioirP1j8="
-  "resolved" "https://gitlab.com/api/v4/projects/37931699/packages/npm/@rhythm-ui/react/-/@rhythm-ui/react-0.1.107.tgz"
-  "version" "0.1.107"
+"@rhythm-ui/react@0.1.106":
+  "integrity" "sha1-eumcmcM0EoBSoXJt7yvyLFkmQFI="
+  "resolved" "https://gitlab.com/api/v4/projects/37931699/packages/npm/@rhythm-ui/react/-/@rhythm-ui/react-0.1.106.tgz"
+  "version" "0.1.106"
   dependencies:
     "@blueprintjs/popover2" "^1.4.3"
     "@faker-js/faker" "^7.5.0"

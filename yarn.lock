@@ -645,7 +645,7 @@
   dependencies:
     "remove-accents" "0.4.2"
 
-"@tanstack/react-table@^8.2.6":
+"@tanstack/react-table@^8.2.6", "@tanstack/react-table@^8.5.15":
   "integrity" "sha512-9rSvhIFeMpfXksFgQNTWnVoJbkae/U8CkHnHYGWAIB/O0Ca51IKap0Rjp5WkIUVBWxJ7Wfl2y13oY+aWcyM6Rg=="
   "resolved" "https://registry.npmjs.org/@tanstack/react-table/-/react-table-8.5.15.tgz"
   "version" "8.5.15"
@@ -1641,7 +1641,7 @@
     "no-case" "^3.0.4"
     "tslib" "^2.0.3"
 
-"echarts@^5.3.3":
+"echarts@^5.3.3", "echarts@^5.4.0":
   "integrity" "sha512-uPsO9VRUIKAdFOoH3B0aNg7NRVdN7aM39/OjovjO9MwmWsAkfGyeXJhK+dbRi51iDrQWliXV60/XwLA7kg3z0w=="
   "resolved" "https://registry.npmjs.org/echarts/-/echarts-5.4.0.tgz"
   "version" "5.4.0"

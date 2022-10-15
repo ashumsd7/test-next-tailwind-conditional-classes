@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@rhythm-ui/react": "0.1.106",
+    "@tanstack/react-table": "^8.5.15",
+    "echarts": "^5.4.0",
     "formik": "^2.2.9",
     "next": "12.3.1",
     "react": "18.2.0",
